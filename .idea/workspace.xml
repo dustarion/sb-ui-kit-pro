@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4efbe5e-9c7f-4117-9ced-ce875007cff3" name="Default Changelist" comment="" />
+    <list default="true" id="d4efbe5e-9c7f-4117-9ced-ce875007cff3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Black.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-BlackItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-BoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-ExtraBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-ExtraBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-ExtraLight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-ExtraLightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-MediumItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-RegularItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-SemiBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-SemiBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/Metropolis-ThinItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/metropolis/SIL Open Font License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/app-desktop-demo-screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/app-store-badge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/avataaars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/dribbble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/mailchimp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/brand-logos/product-hunt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/Macbook/macbook.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/Macbook/portrait_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/Macbook/portrait_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/Macbook/portrait_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/MacbookPro/MacbookPro.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/MacbookPro/portrait_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/iPad-Pro-Mockup.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/landscape_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/landscape_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/landscape_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/portrait_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/portrait_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPadPro/portrait_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPhoneX/landscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPhoneX/landscape_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPhoneX/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/device-mockups/iPhoneX/portrait_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/drawkit/color/drawkit-content-man-color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/drawkit/color/drawkit-social-feed-color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/drawkit/color/drawkit-user-mobile-color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/google-play-badge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/pattern-shapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-basic-signup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-basic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-graphic-signup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-graphic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-inner-page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/header-nav-only.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-app-desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-app-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-classifieds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-directory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-lead-capture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-multipurpose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-press.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-real-estate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-rental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/screenshots/landing-resume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/video/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/page-portfolio-masonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/page-portfolio-project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +119,7 @@
       <workItem from="1589294256753" duration="1927000" />
       <workItem from="1589382360856" duration="990000" />
       <workItem from="1589444947600" duration="14000" />
+      <workItem from="1589454303778" duration="1205000" />
     </task>
     <servers />
   </component>
